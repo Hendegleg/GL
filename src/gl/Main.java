@@ -390,9 +390,8 @@ class Clone implements Cloneable {
 
 public class Main {
     public static void main(String[] args) {
-        // Exemple de création et d'utilisation de quelques objets
         Utilisateur utilisateur = new Utilisateur();
-        utilisateur.changeEmail("nouvelemail@example.com");
+        utilisateur.changeEmail("wechcriaghofrane@gmail.com");
 
         Administrateur admin = new Administrateur();
         admin.ajouterFormation("Formation1");
